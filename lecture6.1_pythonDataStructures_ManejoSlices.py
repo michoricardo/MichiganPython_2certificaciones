@@ -1,4 +1,4 @@
-#este está bien
+#Este está bien
 print('while loop')
 fruit = 'banana'
 index=0
